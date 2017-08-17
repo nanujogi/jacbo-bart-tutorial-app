@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>newtutstotal</key>
+		<integer>2</integer>
+		<key>updatetotal</key>
+		<integer>4</integer>
+		<key>dateofupdate</key>
+		<date>2017-08-12T04:40:10Z</date>
+		<key>newtitle0</key>
+		<string>MVVM Is More than a Pattern</string>
+		<key>newauthor0</key>
+		<string>Bart Jacobs</string>
+		<key>newdate0</key>
+		<string>07-08-2017</string>
+		<key>newcategory0</key>
+		<string>Model-View-ViewModel</string>
+		<key>newsurl0</key>
+		<string>https://cocoacasts.com/mvvm-is-more-than-a-pattern/</string>
+		<key>newtitle1</key>
+		<string>The Elegance of Disposable Managed Object Contexts</string>
+		<key>newauthor1</key>
+		<string>Bart Jacobs</string>
+		<key>newdate1</key>
+		<string>31-07-2017</string>
+		<key>newcategory1</key>
+		<string>CoreData</string>
+		<key>newsurl1</key>
+		<string>https://cocoacasts.com/the-elegance-of-disposable-managed-object-contexts/</string>
+		<key>uptitle0</key>
+		<string>Unboxing JSON With Swift and Unbox</string>
+		<key>upauthor0</key>
+		<string>Bart Jacobs</string>
+		<key>update0</key>
+		<string>24-07-2017</string>
+		<key>upcategory0</key>
+		<string>Swift</string>
+		<key>upsurl0</key>
+		<string>https://cocoacasts.com/the-elegance-of-disposable-managed-object-contexts/</string>
+		<key>uptitle1</key>
+		<string>Are Singletons Bad</string>
+		<key>upauthor1</key>
+		<string>Bart Jacobs</string>
+		<key>update1</key>
+		<string>17-07-2017</string>
+		<key>upcategory1</key>
+		<string>Patterns</string>
+		<key>upsurl1</key><string>https://cocoacasts.com/are-singletons-bad/</string>
+        <key>uptitle2</key>
+        <string>References, Delegation, and Notifications</string>
+        <key>upauthor2</key>
+        <string>Bart Jacobs</string>
+        <key>update2</key>
+        <string>17-07-2017</string>
+        <key>upcategory2</key>
+        <string>Patterns</string>
+        <key>upsurl2</key>
+        <string>https://cocoacasts.com/references-delegation-and-notifications/</string>
+        <key>uptitle3</key>
+        <string>How to Add Pull-to-Refresh to a Table View or Collection View</string>
+        <key>upauthor3</key>
+        <string>Bart Jacobs</string>
+        <key>update3</key>
+        <string>03-07-2017</string>
+        <key>upcategory3</key>
+        <string>UIKIT</string>
+        <key>upsurl3</key>
+        <string>https://cocoacasts.com/how-to-add-pull-to-refresh-to-a-table-view-or-collection-view/</string>
+	</dict>
+</array>
+</plist>

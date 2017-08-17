@@ -1,0 +1,2466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>Five Common Questions About Swift</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>06-06-2016</string>
+		<key>category</key>
+		<string>Swift</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/five-common-questions-about-swift/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>What Is Wrong With Model-View-Controller</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>05-07-2016</string>
+		<key>category</key>
+		<string>Patterns</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/what-is-wrong-with-model-view-controller/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Choosing Between NSOperation and Grand Central Dispatch</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>04-07-2016</string>
+		<key>category</key>
+		<string>Concurrency</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/choosing-between-nsoperation-and-grand-central-dispatch/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>How to Create an Abstract Class in Swift</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>02-07-2016</string>
+		<key>category</key>
+		<string>Patterns</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/how-to-create-an-abstract-class-in-swift/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Managing View Controllers With Container View Controllers</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>01-07-2016</string>
+		<key>category</key>
+		<string>Patterns</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/managing-view-controllers-with-container-view-controllers/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Unboxing JSON With Swift and Unbox</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>02-07-2016</string>
+		<key>category</key>
+		<string>Swift</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/unboxing-json-with-swift-and-unbox/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Five Signs of Code Smell in Swift</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>28-07-2016</string>
+		<key>category</key>
+		<string>Patterns</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/five-signs-of-code-smell-in-swift/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>How Do Unwind Segues Work</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>27-07-2016</string>
+		<key>category</key>
+		<string>Storyboards</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/how-do-unwind-segues-work/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>How to Delete Every Record of a Core Data Entity</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>26-07-2016</string>
+		<key>category</key>
+		<string>CoreData</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/how-to-delete-every-record-of-a-core-data-entity/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>How to Observe a Managed Object Context</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>25-07-2016</string>
+		<key>category</key>
+		<string>CoreData</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/how-to-observe-a-managed-object-context/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Dissecting Auto Layout Constraints</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>24-07-2016</string>
+		<key>category</key>
+		<string>Auto Layout</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/dissecting-auto-layout-constraints/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>What Is Auto Layout</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>23-07-2016</string>
+		<key>category</key>
+		<string>Auto Layout</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/what-is-auto-layout/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Testing View Models With Model-View-ViewModel</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>09-07-2016</string>
+		<key>category</key>
+		<string>Patterns</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/testing-view-models-with-model-view-viewmodel/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>More Swift and Model-View-ViewModel in Practice</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>08-07-2016</string>
+		<key>category</key>
+		<string>Patterns</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/more-swift-and-model-view-viewmodel-in-practice/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Swift and Model-View-ViewModel in Practice</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>07-07-2016</string>
+		<key>category</key>
+		<string>Patterns</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/swift-and-model-view-viewmodel-in-practice/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Write Beautiful Swift With Tailor</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>08-08-2016</string>
+		<key>category</key>
+		<string>Tools</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/write-beautiful-swift-with-tailor/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Asynchronous Fetching With Core Data and Operations</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>07-08-2016</string>
+		<key>category</key>
+		<string>CoreData</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/asynchronous-fetching-with-core-data-and-operations/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Elegant Controls in Swift With Closures</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>06-08-2016</string>
+		<key>category</key>
+		<string>Patterns</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/elegant-controls-in-swift-with-closures/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>References, Delegation, and Notifications</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>05-08-2016</string>
+		<key>category</key>
+		<string>Patterns</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/references-delegation-and-notifications/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Switching Environments With Configurations</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>04-08-2016</string>
+		<key>category</key>
+		<string>Tips and Tricks</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/switching-environments-with-configurations/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Seven Xcode Tricks Every Developer Should Know</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>03-08-2016</string>
+		<key>category</key>
+		<string>Xcode</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/seven-xcode-tricks-every-developer-should-know/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Working With Auto Layout and Layout Anchors</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>02-08-2016</string>
+		<key>category</key>
+		<string>Auto Layout</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/working-with-auto-layout-and-layout-anchors/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Three Tips to Improve Core Data Performance</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>01-08-2016</string>
+		<key>category</key>
+		<string>CoreData</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/three-tips-to-improve-core-data-performance/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>What Are Prototyping Constraints</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>31-07-2016</string>
+		<key>category</key>
+		<string>Auto Layout</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/what-are-prototyping-constraints/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>What Is Intrinsic Content Size</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>30-07-2016</string>
+		<key>category</key>
+		<string>Auto Layout</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/what-is-intrinsic-content-size/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Three Strategies to Keep View Controllers Skinny</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>19-08-2016</string>
+		<key>category</key>
+		<string>Patterns</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/three-strategies-to-keep-view-controllers-skinny/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Are Singletons Bad</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>18-08-2016</string>
+		<key>category</key>
+		<string>Patterns</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/are-singletons-bad/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Six Command Line Tools for Cocoa Developers</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>17-08-2016</string>
+		<key>category</key>
+		<string>Tools</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/six-command-line-tools-for-cocoa-developers/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Organizing Storyboards With Storyboard References</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>16-08-2016</string>
+		<key>category</key>
+		<string>Storyboards</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/organizing-storyboards-with-storyboard-references/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>What Are Core Data Entities and Attributes</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>14-08-2016</string>
+		<key>category</key>
+		<string>CoreData</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/what-are-core-data-entities-and-attributes/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Three Git Tricks Every Developer Should Know</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>13-08-2016</string>
+		<key>category</key>
+		<string>Tools</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/three-git-tricks-every-developer-should-know/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>How to Generate Code Coverage Reports in Xcode With Slather</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>12-08-2016</string>
+		<key>category</key>
+		<string>Testing</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/how-to-generate-code-coverage-reports-in-xcode-with-slather/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>How to Enable Code Coverage in Xcode</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>11-08-2016</string>
+		<key>category</key>
+		<string>Testing</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/how-to-enable-code-coverage-in-xcode/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>How to Add App Transport Security Exception Domains</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>10-08-2016</string>
+		<key>category</key>
+		<string>Security</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/how-to-add-app-transport-security-exception-domains/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>App Transport Security Has Blocked My Request</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>09-08-2016</string>
+		<key>category</key>
+		<string>Security</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/app-transport-security-has-blocked-my-request/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Exploring Xcode s Brand New Core Data Template</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>30-08-2016</string>
+		<key>category</key>
+		<string>CoreData</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/exploring-xcodes-brand-new-core-data-template/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Fetching Weather Data</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>29-08-2016</string>
+		<key>category</key>
+		<string>iOS</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/building-a-weather-application-with-swift-3-fetching-weather-data/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>How to Use Namespaces in Swift</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>28-08-2016</string>
+		<key>category</key>
+		<string>Swift</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/how-to-use-namespaces-in-swift/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Mapping JSON With Swift and Mapper</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>27-08-2016</string>
+		<key>category</key>
+		<string>Swift</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/mapping-json-with-swift-and-mapper/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Seven Applications for Swift Developers</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>26-08-2016</string>
+		<key>category</key>
+		<string>Tools</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/seven-applications-for-swift-developers/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Common Swift Operators You May Not Know About</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>25-08-2016</string>
+		<key>category</key>
+		<string>Swift</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/common-swift-operators-you-may-not-know-about/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Five Xcode Tips to Speed Up Your Development</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>24-08-2016</string>
+		<key>category</key>
+		<string>Tips and Tricks</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/five-xcode-tips-to-speed-up-your-development/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Write Better Code by Writing Unit Tests</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>23-08-2016</string>
+		<key>category</key>
+		<string>Testing</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/write-better-code-by-writing-unit-tests/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>What Is the Difference Between try, try?, and try!</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>21-08-2016</string>
+		<key>category</key>
+		<string>Swift</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/error-handling-in-swift-with-the-try-keyword/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>How to Manage Dependencies With CocoaPods</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>20-08-2016</string>
+		<key>category</key>
+		<string>Tools</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/how-to-manage-dependencies-with-cocoapods/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Passing It Around</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>09-09-2016</string>
+		<key>category</key>
+		<string>CoreData</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/building-the-perfect-core-data-stack-passing-it-around/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Ten People Every Swift Developer Should Follow</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>08-09-2016</string>
+		<key>category</key>
+		<string>Tips and Tricks</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/ten-people-every-swift-developer-should-follow/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Managing Permissions With HealthKit</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>07-09-2016</string>
+		<key>category</key>
+		<string>HealthKit</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/managing-permissions-with-healthkit/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Keeping It Private</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>06-09-2016</string>
+		<key>category</key>
+		<string>CoreData</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/building-the-perfect-core-data-stack-two-is-keeping-it-private/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Decoding JSON Data In Swift: Part 1</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>05-09-2016</string>
+		<key>category</key>
+		<string>iOS</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/building-a-weather-application-with-swift-3-decoding-json-data-in-swift-part-1/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>How to Add Pull-to-Refresh to a Table View or Collection View</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>04-09-2016</string>
+		<key>category</key>
+		<string>UIKIT</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/how-to-add-pull-to-refresh-to-a-table-view-or-collection-view/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Two Is Better Than One</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>03-09-2016</string>
+		<key>category</key>
+		<string>CoreData</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/building-the-perfect-core-data-stack-two-is-better-than-one/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>What Is HealthKit</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>02-09-2016</string>
+		<key>category</key>
+		<string>HealthKit</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/what-is-healthkit/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Embracing Optionals in Swift</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>01-09-2016</string>
+		<key>category</key>
+		<string>Patterns</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/embracing-optionals-in-swift/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Bring Your Own</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>31-08-2016</string>
+		<key>category</key>
+		<string>CoreData</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/building-the-perfect-core-data-stack-bring-your-own/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>What to Do When You Inherit a Software Project</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>19-09-2016</string>
+		<key>category</key>
+		<string>Programming</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/what-to-do-when-you-inherit-a-software-project/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>What Do @escaping and @noescape Mean In Swift 3</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>18-09-2016</string>
+		<key>category</key>
+		<string>Swift</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/what-do-escaping-and-noescaping-mean-in-swift-3/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Learn Swift With an Open Mind</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>17-09-2016</string>
+		<key>category</key>
+		<string>Swift</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/learn-swift-with-an-open-mind/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Should You Learn Swift or Objective-C</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>16-09-2016</string>
+		<key>category</key>
+		<string>Swift</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/should-you-learn-swift-or-objective-c/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>What Is the Weakest Link of Your Application</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>15-09-2016</string>
+		<key>category</key>
+		<string>Tips and Tricks</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/what-is-the-weakest-link-of-your-application/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Value Types and Reference Types in Swift</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>14-09-2016</string>
+		<key>category</key>
+		<string>Swift</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/value-types-and-reference-types-in-swift/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>How to Use Availability Checking In Swift</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>13-09-2016</string>
+		<key>category</key>
+		<string>Swift</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/how-to-use-availability-checking-in-swift/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>How to Run a Business In Apple s App Store</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>12-09-2016</string>
+		<key>category</key>
+		<string>Business</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/how-to-make-a-living-as-a-mobile-developer/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>What Is the Difference Between Private and Fileprivate in Swift 3</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>11-09-2016</string>
+		<key>category</key>
+		<string>Swift</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/what-is-the-difference-between-private-and-fileprivate-in-swift-3/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>More About Managing Permissions With HealthKit</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>10-09-2016</string>
+		<key>category</key>
+		<string>HealthKit</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/more-about-managing-permissions-with-healthkit/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>What Is fatalerror in Swift and When to Use It</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>22-09-2016</string>
+		<key>category</key>
+		<string>Swift</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/what-is-fatalerror-in-swift-and-when-to-use-it/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Decoding JSON Data In Swift: Part 2</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>28-09-2016</string>
+		<key>category</key>
+		<string>iOS</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/building-a-weather-application-with-swift-3-decoding-json-data-in-swift-part-2/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Reverse Geocoding With CLGeocoder</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>27-09-2016</string>
+		<key>category</key>
+		<string>Core Location</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/forward-and-reverse-geocoding-with-clgeocoder-part-2/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Forward Geocoding With CLGeocoder</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>26-09-2016</string>
+		<key>category</key>
+		<string>Core Location</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/forward-and-reverse-geocoding-with-clgeocoder-part-1/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>View Debugging With Reveal</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>25-09-2016</string>
+		<key>category</key>
+		<string>Tools</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/view-debugging-with-reveal/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Building Your Portfolio</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>24-08-2016</string>
+		<key>category</key>
+		<string>Opinion</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/building-your-portfolio/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Some Things Are Hard</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>23-09-2016</string>
+		<key>category</key>
+		<string>Opinion</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/some-things-are-hard/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>What Is Core Data</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>22-09-2016</string>
+		<key>category</key>
+		<string>CoreData</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/what-is-core-data/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Three Inspirational Talks Swift Developers Should Watch</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>21-09-2016</string>
+		<key>category</key>
+		<string>Tips and Tricks</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/three-inspirational-talks-swift-developers-should-watch/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>How to Integrate CloudKit in a Cocoa Application</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>20-09-2016</string>
+		<key>category</key>
+		<string>CloudKit</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/how-to-integrate-cloudkit-in-a-cocoa-application/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Simplifying Table Views With Model-View-ViewModel</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>09-10-2016</string>
+		<key>category</key>
+		<string>Model-View-ViewModel</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/simplifying-table-views-with-model-view-viewmodel/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>What Are the Responsibilities of a View Controller</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>08-10-2016</string>
+		<key>category</key>
+		<string>Model-View-ViewModel</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/what-are-the-responsibilities-of-a-view-controller/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Six Swift Projects You Should Know About</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>07-10-2016</string>
+		<key>category</key>
+		<string>Tips and Tricks</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/six-swift-projects-you-should-know-about/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>How Badly Do You Want It</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>06-10-2016</string>
+		<key>category</key>
+		<string>Opinion</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/how-badly-do-you-want-it/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Give It Time</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>05-10-2016</string>
+		<key>category</key>
+		<string>CoreData</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/building-the-perfect-core-data-stack-give-it-time/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>What Does an Exclamation Mark Mean in Swift</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>04-10-2016</string>
+		<key>category</key>
+		<string>Swift</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/what-does-an-exclamation-mark-mean-in-swift/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>What Is an Optional in Swift</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>03-10-2016</string>
+		<key>category</key>
+		<string>Swift</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/what-is-an-optional-in-swift/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>How to Use Autoclosures and @autoclosure in Swift 3</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>02-10-2016</string>
+		<key>category</key>
+		<string>Swift</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/how-to-use-autoclosures-and-autoclosure-in-swift-3/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>How to Add Sticky Section Headers to a Collection View</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>01-10-2016</string>
+		<key>category</key>
+		<string>UIKIT</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/how-to-add-sticky-section-headers-to-a-collection-view/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Motivation Will Get You Only Halfway</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>30-09-2016</string>
+		<key>category</key>
+		<string>Opinion</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/motivation-will-get-you-only-halfway/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Building the Perfect Core Data Stack With NSPersistentContainer</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>19-10-2016</string>
+		<key>category</key>
+		<string>CoreData</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/building-the-perfect-core-data-stack-with-nspersistentcontainer/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Seven Podcasts for Swift Developers</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>18-10-2016</string>
+		<key>category</key>
+		<string>Tips and Tricks</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/seven-podcasts-for-swift-developers/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Where to Store a Core Data Persistent Store</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>17-10-2016</string>
+		<key>category</key>
+		<string>CoreData</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/where-to-store-a-core-data-persistent-store/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Key-Value Observing (KVO) and Swift 3</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>16-10-2016</string>
+		<key>category</key>
+		<string>Cocoa</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/key-value-observing-kvo-and-swift-3/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>What Does the Dynamic Keyword Mean in Swift 3</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>15-10-2016</string>
+		<key>category</key>
+		<string>Swift</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/what-does-the-dynamic-keyword-mean-in-swift-3/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>What Is Application Sandboxing</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>14-10-2016</string>
+		<key>category</key>
+		<string>Security</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/what-is-application-sandboxing/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Using Fatal Errors to Add Clarity and Elegance to Swift</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>13-10-2016</string>
+		<key>category</key>
+		<string>Swift</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/using-fatal-errors-to-add-clarity-and-elegance-to-swift/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>When Should You Use Implicitly Unwrapped Optionals</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>12-10-2016</string>
+		<key>category</key>
+		<string>Swift</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/when-should-you-use-implicitly-unwrapped-optionals/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Build That Application</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>11-10-2016</string>
+		<key>category</key>
+		<string>Inspiration</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/build-that-application/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Configuring Table Views With Model-View-ViewModel and Protocols</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>10-10-2016</string>
+		<key>category</key>
+		<string>Model-View-ViewModel</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/configuring-table-views-with-model-view-viewmodel-and-protocols/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Add Sections to Table View With NSFetchedResultsController and Swift 3</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>29-10-2016</string>
+		<key>category</key>
+		<string>CoreData</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/add-sections-to-table-view-with-nsfetchedresultscontroller-and-swift-3/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Respond to Updates Using the NSFetchedResultsControllerDelegate Protocol</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>28-10-2016</string>
+		<key>category</key>
+		<string>CoreData</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/respond-to-updates-using-the-nsfetchedresultscontrollerdelegate-protocol/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Implement the NSFetchedResultsControllerDelegate Protocol With Swift 3</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>27-10-2016</string>
+		<key>category</key>
+		<string>CoreData</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/implement-the-nsfetchedresultscontrollerdelegate-protocol-with-swift-3/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Populate a Table View With NSFetchedResultsController and Swift 3</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>26-10-2016</string>
+		<key>category</key>
+		<string>CoreData</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/populate-a-table-view-with-nsfetchedresultscontroller-and-swift-3/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Five In-App Purchase Mistakes to Avoid</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>25-10-2016</string>
+		<key>category</key>
+		<string>iOS</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/five-in-app-purchase-mistakes-to-avoid/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Actionable Notifications With the User Notifications Framework</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>24-10-2016</string>
+		<key>category</key>
+		<string>iOS</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/actionable-notifications-with-the-user-notifications-framework/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Drawing Shapes In Swift With PaintCode</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>23-10-2016</string>
+		<key>category</key>
+		<string>Tools</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/drawing-shapes-in-swift-with-paintcode/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Local Notifications With the User Notifications Framework</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>22-10-2016</string>
+		<key>category</key>
+		<string>iOS</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/local-notifications-with-the-user-notifications-framework/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>How to Use dispatch_after in Swift 3</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>21-10-2016</string>
+		<key>category</key>
+		<string>Swift</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/how-to-use-dispatch-after-in-swift-3/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Meet the URLSession Family</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>20-10-2016</string>
+		<key>category</key>
+		<string>Networking</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/networking-with-urlsession-meet-the-urlsession-family/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Setting Up the Core Data Stack</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>06-11-2016</string>
+		<key>category</key>
+		<string>CoreData</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/mastering-core-data-with-swift-3-setting-up-the-core-data-stack/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Creating the Project</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>05-11-2016</string>
+		<key>category</key>
+		<string>CoreData</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/mastering-core-data-with-swift-3-creating-the-project/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>About Freelancing and Subcontracting</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>05-11-2016</string>
+		<key>category</key>
+		<string>Opinion</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/about-freelancing-and-subcontracting/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Exploring the Core Data Stack</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>04-11-2016</string>
+		<key>category</key>
+		<string>CoreData</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/mastering-core-data-with-swift-3-exploring-the-core-data-stack/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>From Hex to UIColor and Back in Swift</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>04-11-2016</string>
+		<key>category</key>
+		<string>Tips and Tricks</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/from-hex-to-uicolor-and-back-in-swift/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Five Swift Talks You Should Watch</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>03-11-2016</string>
+		<key>category</key>
+		<string>Tips and Tricks</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/five-swift-talks-you-should-watch/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>What Is Stopping You From Shipping</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>02-11-2016</string>
+		<key>category</key>
+		<string>Opinion</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/what-is-stopping-you-from-shipping/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Core Data Relationships and Delete Rules</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>01-11-2016</string>
+		<key>category</key>
+		<string>CoreData</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/core-data-relationships-and-delete-rules/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Never Stop Learning</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>31-10-2016</string>
+		<key>category</key>
+		<string>Opinion</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/never-stop-learning/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Working With NSDateInterval In Swift</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>30-10-2016</string>
+		<key>category</key>
+		<string>Foundation</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/working-with-nsdateinterval-in-swift/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>How to Learn Core Data</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>18-11-2016</string>
+		<key>category</key>
+		<string>CoreData</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/how-to-learn-core-data/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>What Is a Core Data Fault</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>17-11-2016</string>
+		<key>category</key>
+		<string>CoreData</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/what-is-a-core-data-fault/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Functions</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>16-11-2016</string>
+		<key>category</key>
+		<string>Swift</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/30-days-of-swift-functions/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>What Is the Core Data Stack</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>15-11-2016</string>
+		<key>category</key>
+		<string>CoreData</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/what-is-the-core-data-stack/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Speed, Quality, and Technical Debt</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>13-11-2016</string>
+		<key>category</key>
+		<string>Business</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/speed-quality-and-technical-debt/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Core Data or Realm</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>12-11-2016</string>
+		<key>category</key>
+		<string>CoreData</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/core-data-or-realm/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Working With NSURLComponents In Swift</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>10-11-2016</string>
+		<key>category</key>
+		<string>Foundation</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/working-with-nsurlcomponents-in-swift/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>What Is a Singleton and How To Create One In Swift</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>09-11-2016</string>
+		<key>category</key>
+		<string>Patterns</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/what-is-a-singleton-and-how-to-create-one-in-swift/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Mastering Core Data With Swift 3</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>07-11-2016</string>
+		<key>category</key>
+		<string>CoreData</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/introducing-mastering-core-data-with-swift-3/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>One-to-Many and Many-to-Many Core Data Relationships</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>06-11-2016</string>
+		<key>category</key>
+		<string>CoreData</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/one-to-many-and-many-to-many-core-data-relationships/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>How to Store UIColor in Core Data Persistent Store</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>29-11-2016</string>
+		<key>category</key>
+		<string>CoreData</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/how-to-store-uicolor-in-core-data-persistent-store/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Closures</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>28-11-2016</string>
+		<key>category</key>
+		<string>Swift</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/30-days-of-swift-closures/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>What Are You Testing</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>26-11-2016</string>
+		<key>category</key>
+		<string>Testing</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/what-are-you-testing/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>What Are Core Data Query Generations</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>25-11-2016</string>
+		<key>category</key>
+		<string>CoreData</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/what-are-core-data-query-generations/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>What Are the Benefits of Model-View-ViewModel</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>24-11-2016</string>
+		<key>category</key>
+		<string>Model-View-ViewModel</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/what-are-the-benefits-of-model-view-viewmodel/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>How to Unit Test Private Methods in Swift</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>23-11-2016</string>
+		<key>category</key>
+		<string>Testing</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/how-to-unit-test-private-methods-in-swift/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Don t Use a Core Data Library</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>22-11-2016</string>
+		<key>category</key>
+		<string>CoreData</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/dont-use-a-core-data-library/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>20 Indispensable Applications for Programmers</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>21-11-2016</string>
+		<key>category</key>
+		<string>Tools</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/20-indispensable-applications-programmers/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Three Common Core Data Mistakes to Avoid</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>20-11-2016</string>
+		<key>category</key>
+		<string>CoreData</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/three-common-core-data-mistakes-to-avoid/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>More Functions</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>19-11-2016</string>
+		<key>category</key>
+		<string>Swift</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/30-days-of-swift-more-functions/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>You Are the Constant in Your Career</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>09-12-2016</string>
+		<key>category</key>
+		<string>Inspiration</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/you-are-the-constant-in-your-career/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Three Tips to Destroy Your Productivity</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>08-12-2016</string>
+		<key>category</key>
+		<string>Opinion</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/three-tips-to-destroy-your-productivity/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Clean Code With Categories and Extensions</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>07-12-2016</string>
+		<key>category</key>
+		<string>Tips and Tricks</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/clean-code-with-categories-and-extensions/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Shorthand Argument Names in Swift</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>06-12-2016</string>
+		<key>category</key>
+		<string>Swift</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/shorthand-argument-names-in-swift/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>What Is the Difference Between Weak and Unowned References in Swift</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>05-12-2016</string>
+		<key>category</key>
+		<string>Swift</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/what-is-the-difference-between-weak-and-unowned-references-in-swift/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Exploring the NSPersistentStoreDescription Class</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>04-12-2016</string>
+		<key>category</key>
+		<string>CoreData</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/exploring-the-nspersistentstoredescription-class/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>30 Days of Swift</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>03-12-2016</string>
+		<key>category</key>
+		<string>Swift</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/30-days-of-swift/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Stop Looking for the Silver Bullet</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>02-12-2016</string>
+		<key>category</key>
+		<string>Opinion</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/stop-looking-for-the-silver-bullet/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Trailing Closures</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>01-12-2016</string>
+		<key>category</key>
+		<string>Swift</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/30-days-of-swift-trailing-closures/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>What Is the Difference Between Core Data and SQLite</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>30-11-2016</string>
+		<key>category</key>
+		<string>CoreData</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/what-is-the-difference-between-core-data-and-sqlite/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>How to Succeed in Today s App Store</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>19-12-2016</string>
+		<key>category</key>
+		<string>Business</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/how-to-succeed-in-todays-app-store/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Working With Auto Layout In Code</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>18-12-2016</string>
+		<key>category</key>
+		<string>Auto Layout</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/working-with-auto-layout-in-code/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Enumerations</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>17-12-2016</string>
+		<key>category</key>
+		<string>Swift</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/30-days-of-swift-enumerations/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>What Is the Difference Between Public and Open in Swift 3</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>16-12-2016</string>
+		<key>category</key>
+		<string>Swift</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/what-is-the-difference-between-public-and-open-in-swift-3/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Lazily Populating User Defaults With Default Values</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>15-12-2016</string>
+		<key>category</key>
+		<string>Foundation</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/lazily-populating-user-defaults-with-default-values/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Private and Public At the Same Time</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>14-12-2016</string>
+		<key>category</key>
+		<string>Swift</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/private-and-public-at-the-same-time/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>What Sets Classes and Structures Apart</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>13-12-2016</string>
+		<key>category</key>
+		<string>Swift</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/30-days-of-swift-what-sets-classes-and-structures-apart/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Classes and Structures</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>12-12-2016</string>
+		<key>category</key>
+		<string>Swift</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/30-days-of-swift-classes-and-structures/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Use Extensions to Add Type Safety to User Defaults</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>11-12-2016</string>
+		<key>category</key>
+		<string>Foundation</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/use-extensions-to-add-type-safety-to-user-defaults/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Three Features of NSManagedObject You May Not Know About</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>10-12-2016</string>
+		<key>category</key>
+		<string>CoreData</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/three-features-of-nsmanagedobject-you-may-not-know-about/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>More Fetching and Deleting Managed Objects With Core Data</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>20-02-2017</string>
+		<key>category</key>
+		<string>CoreData</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/more-fetching-and-deleting-managed-objects-with-core-data/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Reading and Updating Managed Objects With Core Data</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>13-02-2017</string>
+		<key>category</key>
+		<string>CoreData</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/reading-and-updating-managed-objects-with-core-data/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Working With Managed Objects In Core Data</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>06-02-2017</string>
+		<key>category</key>
+		<string>CoreData</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/working-with-managed-objects-in-core-data/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Data Model, Entities, and Relationships</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>30-01-2017</string>
+		<key>category</key>
+		<string>CoreData</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/data-model-entities-and-relationships/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Data Model, Entities, and Attributes</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>23-01-2017</string>
+		<key>category</key>
+		<string>CoreData</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/data-model-entities-and-attributes/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Setting Up the Core Data Stack From Scratch</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>16-01-2017</string>
+		<key>category</key>
+		<string>CoreData</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/setting-up-the-core-data-stack-from-scratch/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Setting Up the Core Data Stack With NSPersistentContainer</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>09-01-2017</string>
+		<key>category</key>
+		<string>CoreData</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/setting-up-the-core-data-stack-with-nspersistentcontainer/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Exploring the Core Data Stack</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>02-01-2017</string>
+		<key>category</key>
+		<string>CoreData</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/exploring-the-core-data-stack/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>How to Use Multiple Strings Files In a Swift Project</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>21-12-2016</string>
+		<key>category</key>
+		<string>iOS</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/how-to-use-multiple-strings-files-in-a-swift-project/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Why I Love Model-View-ViewModel</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>20-12-2016</string>
+		<key>category</key>
+		<string>Model-View-ViewModel</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/why-i-love-model-view-viewmodel/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Setting Up the Project</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>13-03-2017</string>
+		<key>category</key>
+		<string>iOS</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/building-a-weather-application-with-swift-3-setting-up-the-project/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Tuples and Optionals</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>10-03-2017</string>
+		<key>category</key>
+		<string>Swift</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/30-days-of-swift-tuples-and-optionals/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Variables, Constants, and Types</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>09-03-2017</string>
+		<key>category</key>
+		<string>Swift</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/30-days-of-swift-variables-constants-and-types/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Playgrounds</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>08-03-2017</string>
+		<key>category</key>
+		<string>Swift</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/30-days-of-swift-playgrounds/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>More Core Data and Concurrency</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>07-03-2017</string>
+		<key>category</key>
+		<string>CoreData</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/more-core-data-and-concurrency/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Core Data and Concurrency</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>06-03-2017</string>
+		<key>category</key>
+		<string>CoreData</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/core-data-and-concurrency/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Exploring the Fetched Results Controller Delegate Protocol</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>03-03-2017</string>
+		<key>category</key>
+		<string>CoreData</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/exploring-the-fetched-results-controller-delegate-protocol/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Managing Records With Fetched Results Controllers</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>02-03-2017</string>
+		<key>category</key>
+		<string>CoreData</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/managing-records-with-fetched-results-controllers/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Subclassing NSManagedObject</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>01-03-2017</string>
+		<key>category</key>
+		<string>CoreData</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/subclassing-nsmanagedobject-core-data/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Migrating a Data Model With Core Data</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>27-02-2017</string>
+		<key>category</key>
+		<string>CoreData</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/migrating-a-data-model-with-core-data/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>How to Break a Strong Reference Cycle</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>26-04-2017</string>
+		<key>category</key>
+		<string>Swift</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/how-to-break-a-strong-reference-cycle/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>What Are Strong Reference Cycles</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>25-04-2017</string>
+		<key>category</key>
+		<string>Swift</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/what-are-strong-reference-cycles/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>What Is Automatic Reference Counting (ARC)</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>24-04-2017</string>
+		<key>category</key>
+		<string>Swift</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/what-is-automatic-reference-counting-arc/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>How to Make a Custom Control Reactive With RxSwift</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>21-04-2017</string>
+		<key>category</key>
+		<string>RxSwift</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/how-to-make-a-custom-control-reactive-with-rxswift/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>How to Create a Custom Control Using a Bitmask</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>20-04-2017</string>
+		<key>category</key>
+		<string>UIKIT</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/how-to-create-a-custom-control-using-a-bitmask/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>How to Work With Bitmasks in Swift</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>19-04-2017</string>
+		<key>category</key>
+		<string>Standard Library</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/how-to-work-with-bitmasks-in-swift/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Building the User Interface</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>20-03-2017</string>
+		<key>category</key>
+		<string>iOS</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/building-a-weather-application-with-swift-3-building-the-user-interface/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Conditionals</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>16-03-2017</string>
+		<key>category</key>
+		<string>Swift</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/30-days-of-swift-conditionals/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>What Is a LazyMapCollection in Swift</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>15-03-2017</string>
+		<key>category</key>
+		<string>Swift</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/what-is-a-lazymapcollection-in-swift/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Collection Types</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>14-03-2017</string>
+		<key>category</key>
+		<string>Swift</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/30-days-of-swift-collection-types/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Should Outlets Be Optionals or Implicitly Unwrapped Optionals</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>29-05-2017</string>
+		<key>category</key>
+		<string>Swift</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/should-outlets-be-optionals-or-implicitly-unwrapped-optionals/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>PixelCut and PaintCode</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>26-05-2017</string>
+		<key>category</key>
+		<string>Business</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/pixelcut-and-paintcode/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>An Introductory Core Data Tutorial</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>24-05-2017</string>
+		<key>category</key>
+		<string>CoreData</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/core-data-tutorial/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Five Reasons CloudKit Notifications Are Not Arriving</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>23-05-2017</string>
+		<key>category</key>
+		<string>CloudKit</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/cloudkit-notifications-not-arriving/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Should Outlets Be Weak or Strong</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>22-05-2017</string>
+		<key>category</key>
+		<string>Memory Management</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/should-outlets-be-weak-or-strong/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>What Is Notification.Name and How to Use It</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>05-05-2017</string>
+		<key>category</key>
+		<string>Foundation</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/what-is-notification-name-and-how-to-use-it/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Five Simple Tips to Make User Friendly Forms on iOS</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>04-05-2017</string>
+		<key>category</key>
+		<string>Tips and Tricks</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/five-simple-tips-to-make-user-friendly-forms-on-ios/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Four Clever Uses of Swift Extensions</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>03-05-2017</string>
+		<key>category</key>
+		<string>Tips and Tricks</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/four-clever-uses-of-swift-extensions/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>How to Use a Capture List to Break a Retain Cycle</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>27-04-2017</string>
+		<key>category</key>
+		<string>Swift</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/how-to-use-a-capture-list-to-break-a-retain-cycle/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>What Is the Difference Between Strong, Weak, and Unowned References</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>27-04-2017</string>
+		<key>category</key>
+		<string>Swift</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/what-is-the-difference-between-strong-weak-and-unowned-references/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>The Soulmen and Ulysses</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>30-06-2017</string>
+		<key>category</key>
+		<string>Business</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/the-soulmen-and-ulysses/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Nuts and Bolts of Dependency Injection in Swift</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>26-06-2017</string>
+		<key>category</key>
+		<string>Patterns</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/nuts-and-bolts-of-dependency-injection-in-swift/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>What Is Any in Swift</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>19-06-2017</string>
+		<key>category</key>
+		<string>Standard Library</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/what-is-any-in-swift/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Itty Bitty Apps and Reveal</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>16-06-2017</string>
+		<key>category</key>
+		<string>Business</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/itty-bitty-apps-and-reveal/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>What Is AnyObject in Swift</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>12-06-2017</string>
+		<key>category</key>
+		<string>Standard Library</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/what-is-anyobject-in-swift/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Fournova and Tower</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>09-06-2017</string>
+		<key>category</key>
+		<string>Business</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/fournova-and-tower/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>What Is the Difference Between Private and Fileprivate in Swift 4</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>08-06-2017</string>
+		<key>category</key>
+		<string>Swift</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/what-is-the-difference-between-private-and-fileprivate-in-swift-4/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>How to Mock and Stub a System Class in Swift: Part 3</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>07-06-2017</string>
+		<key>category</key>
+		<string>Testing</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/how-to-mock-and-stub-a-system-class-in-swift-part-3/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>How to Mock and Stub a System Class in Swift: Part 2</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>06-06-2017</string>
+		<key>category</key>
+		<string>Testing</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/how-to-mock-and-stub-a-system-class-in-swift-part-2/</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>How to Mock and Stub a System Class in Swift: Part 1</string>
+		<key>author</key>
+		<string>Bart Jacobs</string>
+		<key>date</key>
+		<string>05-06-2017</string>
+		<key>category</key>
+		<string>Testing</string>
+		<key>surl</key>
+		<string>https://cocoacasts.com/how-to-mock-and-stub-a-system-class-in-swift-part-1/</string>
+	</dict>
+</array>
+</plist>
